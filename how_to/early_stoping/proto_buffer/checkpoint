@@ -1,6 +1,0 @@
-model_checkpoint_path: "/home/zhoujie/TensorFlow/scripts/how_to/early_stoping/proto_buffer/model-900"
-all_model_checkpoint_paths: "/home/zhoujie/TensorFlow/scripts/how_to/early_stoping/proto_buffer/model-500"
-all_model_checkpoint_paths: "/home/zhoujie/TensorFlow/scripts/how_to/early_stoping/proto_buffer/model-600"
-all_model_checkpoint_paths: "/home/zhoujie/TensorFlow/scripts/how_to/early_stoping/proto_buffer/model-700"
-all_model_checkpoint_paths: "/home/zhoujie/TensorFlow/scripts/how_to/early_stoping/proto_buffer/model-800"
-all_model_checkpoint_paths: "/home/zhoujie/TensorFlow/scripts/how_to/early_stoping/proto_buffer/model-900"
